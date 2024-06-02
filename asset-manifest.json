@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//lamialee.github.io/static/css/main.89aecee2.css",
+    "main.js": "//lamialee.github.io/static/js/main.a34303db.js",
+    "index.html": "//lamialee.github.io/index.html",
+    "main.89aecee2.css.map": "//lamialee.github.io/static/css/main.89aecee2.css.map",
+    "main.a34303db.js.map": "//lamialee.github.io/static/js/main.a34303db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89aecee2.css",
+    "static/js/main.a34303db.js"
+  ]
+}
